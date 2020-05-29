@@ -22,6 +22,10 @@ _Sebastian Alvis, Shane Grigsby, Lindsey Heagy, Yara Mohajerani, Fernando Pérez
     - creating just-in-time research GUIs: connecting interactive controls to your code  
 - 12:20 - 12:30 AM [Fernando]: Wrap up 
 
+## Accessing the Pangeo Hub 
+
+https://icesat-2.hackweek.io/hub/login
+
 ## Installing IPywidgets
 
 https://ipywidgets.readthedocs.io/en/latest/user_install.html
