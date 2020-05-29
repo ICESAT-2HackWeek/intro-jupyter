@@ -28,8 +28,10 @@ https://ipywidgets.readthedocs.io/en/latest/user_install.html
 
 ## Extras
 
+- sharing your notebooks on Binder: https://mybinder.org
 - widgets in action for education: https://github.com/geoscixyz/geosci-labs
 - dashboarding with voila: https://github.com/voila-dashboards/voila 
+- building a book with JupyterBook: https://jupyterbook.org
 
 
 ## Credit
