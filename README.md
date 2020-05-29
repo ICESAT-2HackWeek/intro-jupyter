@@ -1,4 +1,5 @@
 # Introduction to Jupyter and IPython 
+_Sebastian Alvis, Shane Grigsby, Lindsey Heagy, Yara Mohajerani, Fernando Pérez_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/scipyla-jupyter/master)
 
