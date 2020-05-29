@@ -1,0 +1,9 @@
+name: jupyter-tutorial-env
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- numpy
+- matplotlib
+- ipywidgets
+- jupyter
