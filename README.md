@@ -40,6 +40,10 @@ https://ipywidgets.readthedocs.io/en/latest/user_install.html
 3. Clone GitHub repo (type on the terminal):
     `git clone https://github.com/ICESAT-2HackWeek/intro-jupyter.git`
 
+## Questions
+
+Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack.
+
 ## Extras
 
 - sharing your notebooks on Binder: https://mybinder.org
