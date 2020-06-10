@@ -2,6 +2,10 @@
 _Sebastian Alvis, Shane Grigsby, Lindsey Heagy, Yara Mohajerani, Fernando Pérez_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/scipyla-jupyter/master)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/ICESAT-2HackWeek/intro-jupyter/blob/master/LICENSE)
+
+This tutorial is hosted on the [Github ICESat-2 HackWeek organization](https://github.com/ICESAT-2HackWeek/intro-jupyter).
+
 
 ## Schedule (all times in PDT)
 - 10:45 - 11:00 AM [Anthony]: Getting connected
@@ -30,7 +34,7 @@ https://ipywidgets.readthedocs.io/en/latest/user_install.html
 
 ## Setup
 1. Login to JupyterHub:
-    https://icesat-2.hackweek.io/hub/login
+    https://icesat-2.hackweek.io
 2. Open a Terminal:
     Find Terminal icon at the bottom (or click the + sign on the top left)
 3. Clone GitHub repo (type on the terminal):
@@ -43,7 +47,10 @@ https://ipywidgets.readthedocs.io/en/latest/user_install.html
 - dashboarding with voila: https://github.com/voila-dashboards/voila 
 - building a book with JupyterBook: https://jupyterbook.org
 
-
 ## Credit
 
-This collection of tutorials was adapted from the [ICESat-2 Hackweek tutorial](https://github.com/ICESAT-2HackWeek/intro-jupyter-git) by [@fperez](https://github.com/fperez)
+This collection of tutorials was adapted from the [ICESat-2 Hackweek tutorial](https://github.com/ICESAT-2HackWeek/intro-jupyter-git) by [@fperez](https://github.com/fperez). Materials for 2020 were co-developed by the instructor team above.
+
+## License
+
+All code and content in this repository is free software: you can redistribute it and/or modify it under the terms of the BSD License. A copy of this license is provided in [LICENSE](LICENSE).
