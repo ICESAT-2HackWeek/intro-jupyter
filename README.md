@@ -18,17 +18,23 @@ _Sebastian Alvis, Shane Grigsby, Lindsey Heagy, Yara Mohajerani, Fernando Pérez
     - What features are specific to notebooks?
 - 11:25 - 11:55 AM [Shane]: IPython 
     - Workflows beyond plain Python - tab completion, command line access, debugging
-- 11:55 - 12:20 AM [Lindsey]: Widgets
+- 11:55 - 12:20 AM [Fernando]: Widgets
     - creating just-in-time research GUIs: connecting interactive controls to your code  
 - 12:20 - 12:30 AM [Fernando]: Wrap up 
 
-## Accessing the Pangeo Hub 
-
-https://icesat-2.hackweek.io/hub/login
-
 ## Installing IPywidgets
 
+Note that for the tutorial during the HackWeek, all necessary dependencies are already installed in the Hub.
+
 https://ipywidgets.readthedocs.io/en/latest/user_install.html
+
+## Setup
+1. Login to JupyterHub:
+    https://icesat-2.hackweek.io/hub/login
+2. Open a Terminal:
+    Find Terminal icon at the bottom (or click the + sign on the top left)
+3. Clone GitHub repo (type on the terminal):
+    `git clone https://github.com/ICESAT-2HackWeek/intro-jupyter.git`
 
 ## Extras
 
