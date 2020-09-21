@@ -6,6 +6,7 @@ _Sebastian Alvis, Shane Grigsby, Lindsey Heagy, Yara Mohajerani, Fernando Pérez
 
 This tutorial is hosted on the [Github ICESat-2 HackWeek organization](https://github.com/ICESAT-2HackWeek/intro-jupyter).
 
+[Full video (1:21h) recording of this tutorial](https://youtu.be/Jft9-RnmH1Y), as delivered June 12, 2020 for the ICESat-2 Hack week.
 
 ## Schedule (all times in PDT)
 - 10:45 - 11:00 AM [Anthony]: Getting connected
